@@ -21,9 +21,9 @@ by me.
 
 ❓What if it doesn’t work?
 
-1) You should turn off antivirus
-2) Update Windows
-3) Reinstall it
+You should turn off antivirus
+Update Windows
+Reinstall it
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
