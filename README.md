@@ -1,4 +1,3 @@
-<span align='center'>
 
 # `    .FiveM Cheat.      `
 
@@ -12,18 +11,18 @@
 
 ❓Information?
 
-no key
-free cheat
-easy to download
-by me. 
+- no key
+- free cheat
+- easy to download
+- by me. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ❓What if it doesn’t work?
 
-You should turn off antivirus
-Update Windows
-Reinstall it
+- You should turn off antivirus
+- Update Windows (only if necessary)
+- Reinstall it
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
