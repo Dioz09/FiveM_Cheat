@@ -12,18 +12,18 @@
 
 ❓Information?
 
--  no key
-- free cheat
-- easy to download
+no key
+free cheat
+easy to download
 by me. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ❓What if it doesn’t work?
 
-- You should turn off antivirus
-- Update Windos
-- Reinstall it
+1) You should turn off antivirus
+2) Update Windows
+3) Reinstall it
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
