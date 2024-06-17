@@ -5,8 +5,8 @@
 
 ❓How to download?
 
-🔗Link--  https://mega.nz/file/g2ckHYiR#y7q6U3arSCkHcRF3cg8h8i3GGFJzjpSa3I1UANuqGgU
-📁Zip-- you can download the file with GitHub, no key needed.
+- 🔗Link--  https://mega.nz/file/g2ckHYiR#y7q6U3arSCkHcRF3cg8h8i3GGFJzjpSa3I1UANuqGgU
+- 📁Zip-- you can download the file with GitHub, no key needed.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
