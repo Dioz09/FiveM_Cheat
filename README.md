@@ -9,9 +9,6 @@
 
 - 📹  cheat proof -- https://youtu.be/ysd0C4S3T8I?si=GGemnq5AA-6H4Fhq
 
-- 📁 Zip -- you can download the file with GitHub, no key needed.
-
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ❓Information?
