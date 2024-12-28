@@ -5,7 +5,7 @@
 
 ❓How to download?
 
-- 🔗 Link --  https://mega.nz/file/fN1nQSKL#SDFGRam5BaempMKhWgRbUio5ya9hYNGkG_Wcte8lefc
+- 🔗 Link --  https://www.mediafire.com/file/m5ov9xvihbchoai/HX+cheats+1.3V.zip/file
 
 - 📹  cheat proof -- https://youtu.be/ysd0C4S3T8I?si=GGemnq5AA-6H4Fhq
 
